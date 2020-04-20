@@ -1,11 +1,11 @@
-# Quickstart Jekyll Site [![Netlify Status](https://api.netlify.com/api/v1/badges/e1f021f1-d2f8-4ca4-8096-7013095b457a/deploy-status)](https://app.netlify.com/sites/1actuary/deploys)
+# Quickstart Jekyll Site [![Netlify Status](https://api.netlify.com/api/v1/badges/9e3582d0-6ed3-48df-af66-c64551eb351b/deploy-status)](https://app.netlify.com/sites/myquickstart/deploys)
 
 This repository contains a quick start [Jekyll](https://jekyllrb.com/) website, which has been deployed to:
 
-+ [Netlify](https://www.netlify.com/) at [Netlify deployment](https://1actuary.netlify.app/) and
-+ [GitHub Pages](https://pages.github.com/) at [GitHub deployment](https://github.com/maverickactuary/1actuary)
++ [Netlify](https://www.netlify.com/) at [Netlify deployment](https://myquickstart.netlify.app/) and
++ [GitHub Pages](https://pages.github.com/) at [GitHub deployment](https://github.com/maverickactuary/quickstart)
 
-I've made this site public, so feel free to use it. GitHub allows you to easily [create a new repository using this one as a template](https://github.com/maverickactuary/1actuary/generate).
+I've made this site public, so feel free to use it. GitHub allows you to easily [create a new repository using this one as a template](https://github.com/maverickactuary/quickstart/generate).
 
 ## Why I did this
 

@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en" }}">
   <head>
-
+    <title>Jekyll template with navigation</title>
     {% if site.google_analytics %}
       <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
       <script>
@@ -53,7 +53,7 @@
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
-        <!-- <span class="site-footer-credits">Hosted on <a href="https://pages.github.com">GitHub Pages</a> customized by Andrew Howe and deployed on <a href="https://www.netlify.com/">Netlify</a> | <a href="https://validator.w3.org/nu/?doc=https://maverickactuary.github.io{{ page.url }}">HTML validator</a></span> -->
+        <!-- <span class="site-footer-credits">Hosted on <a href="https://pages.github.com">GitHub Pages</a> customized by Andrew Howe and deployed on <a href="https://www.netlify.com/">Netlify</a> | <a href="https://validator.w3.org/nu/?doc={{ site.url }}{{ page.url }}">HTML validator</a></span> -->
         
         Built with <a href="https://github.com">GitHub</a>, <a href="https://jekyllrb.com/">Jekyll</a>, <a href="https://www.netlify.com/">Netlify</a> and the Howe team | <a href="https://validator.w3.org/nu/?doc=https://maverickactuary.github.io{{ page.url }}">HTML validator</a>
       

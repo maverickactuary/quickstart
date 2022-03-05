@@ -1,9 +1,9 @@
 ---
 layout: default
-folder: /content/6folder/
+folder: /4folder/
 title: Front matter title
 ---
 
-## Hello from 6folder
+## Hello from 4folder
 
 [Go home](/)

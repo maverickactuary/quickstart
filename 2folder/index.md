@@ -1,6 +1,6 @@
 ---
 layout: default
-folder: /content/2folder/
+folder: /2folder/
 title: Front matter title
 ---
 

@@ -1,12 +1,12 @@
 - title: Home
   url: /
 - title: My 2folder
-  url: /content/2folder/
+  url: /2folder/
 - title: My 3folder
-  url: /content/3folder/
+  url: /3folder/
 - title: My 4folder
-  url: /content/4folder/
+  url: /4folder/
 - title: My 5folder
-  url: /content/5folder/
+  url: /5folder/
 - title: About &amp; contact
-  url: /content/6folder/
+  url: /6folder/

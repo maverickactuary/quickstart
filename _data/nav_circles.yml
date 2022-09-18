@@ -1,0 +1,27 @@
+- lname: Thales.
+  ldesc: The easiest circle theorem.
+  fname: /circles/circle-theorems-thales
+  
+- lname: Inscribed angle.
+  ldesc: The angle subtending a major arc is constant.
+  fname: /circles/circle-theorems-inscribed-angle
+
+- lname: Cyclic quadrilateral - opposite angles sum to 180&deg;.
+  ldesc: Plus minor arc.
+  fname: /circles/circle-theorems-cyclic-quadrilateral
+
+- lname: Tangent radius.
+  ldesc: Blindingly obvious, but a slippery proof.
+  fname: /circles/circle-theorems-tangent-radius
+
+- lname: Alternate segment.
+  ldesc: Perhaps the most unintuitive.
+  fname: /circles/circle-theorems-alternate-segment
+
+- lname: Chord bisection by radius.
+  ldesc: The relevant angle is 90&deg;.
+  fname: /circles/circle-theorems-chord-bisection
+
+- lname: Equal length tangents.
+  ldesc: For completeness.
+  fname: /circles/circle-theorems-equal-length-tangents

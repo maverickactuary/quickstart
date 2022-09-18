@@ -1,0 +1,1 @@
+<nav>{% for item in site.data.nav_top %}<a class="{% if item.section == page.section %}active{% endif %}" href="{{item.url}}">{{item.section}}</a>{% endfor %}</nav>

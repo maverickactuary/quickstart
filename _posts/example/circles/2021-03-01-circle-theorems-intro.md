@@ -1,7 +1,7 @@
 ---
 layout: default
-section: Lablog
-permalink: /circles/
+section: Example
+permalink: /circles/circle-theorems-intro
 maths: true
 geogebra: true
 title: Circle theorems - Thales of the unexpected
@@ -10,8 +10,6 @@ description: We discuss and prove seven circle theorems. Many proofs - especiall
 
 ## Circle Theorems: Thales of the unexpected
 
-<img class="fleft" src="/assets/img/circles/peter-neumann.jpg">
-<div class="clearfix">
 <p>Dedicated to the memory of Peter Neumann, OBE. Or as he would write, &Pi;MN. Peter died of Covid in late 2020.</p>
 
 I attended only one series of his lectures, fittingly on group theory. His presentation and proofs of the Sylow theorems were outstanding. Almost 30 years later we exchanged emails and he displayed his legendary courtesy, ending with:
@@ -31,10 +29,6 @@ All best wishes, &Pi;eter</i>
 ### Background
 
 The circle theorems are usually encountered in the UK's GCSE maths exams. They are perhaps a rare example where students at that level encounter mathematical proofs, although it would be surprising if any but the easiest of these proofs were required in an exam.
-
-### Thales of the unexpected
-
-Another surprise is that several of the proofs presented to students are incomplete or misleading. You can read more about this in the [inscribed angle]({% post_url /lablog/circles/2021-03-03-circle-theorems-inscribed-angle %}) and [cyclic quadrilateral]({% post_url /lablog/circles/2021-03-04-circle-theorems-cyclic-quadrilateral %}) posts.
 
 ### Walking through the theorems
 

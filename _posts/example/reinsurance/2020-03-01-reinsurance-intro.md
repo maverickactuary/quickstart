@@ -1,7 +1,7 @@
 ---
 layout: default
-section: Protection
-permalink: /protection/reinsurance
+section: Example
+permalink: /example/reinsurance
 title: Reinsurance magic
 description: Why does reinsurance work for large individual protection insurers? How do the reinsurance structures work? How should you present effectively to reinsurers?
 ---

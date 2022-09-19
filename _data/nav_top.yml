@@ -1,6 +1,6 @@
 - section: Home
   url: /
-- section: Protection
-  url: /protection
+- section: Example
+  url: /example
 - section: About
   url: /about

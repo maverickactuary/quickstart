@@ -1,7 +1,7 @@
 ---
 layout: default
-section: Protection     
-permalink: /protection/reinsurance/reinsurance-magic
+section: Example     
+permalink: /example/reinsurance/reinsurance-magic
 title: Reinsurance magic for insurers
 description:  Reinsurance works for almost all large individual protection insurers. Here are 10 reasons why.
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-section: Lablog
+section: Example
 permalink: /circles/circle-theorems-thales
 maths: true
 geogebra: true
@@ -43,6 +43,4 @@ Sum &Delta;APB angles: 180&deg; = &alpha; + (&alpha; + &beta;) + &beta; which si
 
 ## Where to now?
 
-What if the chord AB is not a diameter? It turns out that &ang;APB is still constant. 
-
-[Many proofs are flawed](https://www.bbc.co.uk/bitesize/guides/zcsgdxs/revision/2): they consider only the simplest case. For more on this see the [inscribed angle theorem]({% post_url /lablog/circles/2021-03-03-circle-theorems-inscribed-angle %}).
+What if the chord AB is not a diameter? It turns out that &ang;APB is still constant.

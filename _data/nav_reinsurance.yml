@@ -1,11 +1,7 @@
 - lname: Why reinsurance works for big insurers.
   ldesc: Magic<sup>1</sup> for insurers.
-  fname: /protection/reinsurance/reinsurance-magic
+  fname: /example/reinsurance/reinsurance-magic
   
 - lname: Reinsurance structures.
   ldesc: Reinsurance and cashflows.
-  fname: /protection/reinsurance/reinsurance-structures
-
-- lname: The reinsurance DA VINCI code.
-  ldesc: Presenting your case to reinsurers.
-  fname: /protection/reinsurance/reinsurance-davinci
+  fname: /example/reinsurance/reinsurance-structures

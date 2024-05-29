@@ -1,4 +1,4 @@
-url: https://myquickstart.netlify.app/
+url: https://myquickstart.netlify.app
 show_drafts: false
 exclude:
   - netlify.toml
